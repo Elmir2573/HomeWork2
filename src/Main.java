@@ -3,11 +3,11 @@ import java.sql.SQLOutput;
 public class Main {
     public static void main(String[] args) {
         //задание 1
-int myInt = 25000;
+int myInt = 26000;
         System.out.println(myInt);
-        byte myByte =25;
+        byte myByte =75;
         System.out.println(myByte);
-        short myShort = 1973;
+        short myShort = 1977;
         System.out.println(myShort);
         long myLong = 25896397L;
         System.out.println(myLong);
