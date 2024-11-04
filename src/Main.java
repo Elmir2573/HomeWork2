@@ -9,7 +9,7 @@ int myInt = 26000;
         System.out.println(myByte);
         short myShort = 1977;
         System.out.println(myShort);
-        long myLong = 25896397L;
+        long myLong = 25986397L;
         System.out.println(myLong);
         float myFloat = 3.14f;
         System.out.println(myFloat);
@@ -18,7 +18,7 @@ int myInt = 26000;
         //задание2
         float a = 27.12f;
         long b = 987678965549L;
-        float c = 2.786f;
+        float c = 2.596f;
         short d = 569;
         short e = -159;
         short f = 27897;
